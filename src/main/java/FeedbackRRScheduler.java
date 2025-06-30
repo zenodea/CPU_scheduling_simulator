@@ -3,7 +3,6 @@ import java.util.PriorityQueue;
 /**
  * Feedback Round Robin Scheduler
  * 
- * @version 2017
  */
 public class FeedbackRRScheduler extends AbstractScheduler {
 

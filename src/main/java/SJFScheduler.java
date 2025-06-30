@@ -4,7 +4,6 @@ import java.util.HashMap;
 /**
  * Shortest Job First Scheduler
  * 
- * @version 2017
  */
 public class SJFScheduler extends AbstractScheduler
 {

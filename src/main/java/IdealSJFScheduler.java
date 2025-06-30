@@ -3,7 +3,6 @@ import java.util.ArrayList;
 /**
  * Ideal Shortest Job First Scheduler
  * 
- * @version 2017
  */
 public class IdealSJFScheduler extends AbstractScheduler {
 

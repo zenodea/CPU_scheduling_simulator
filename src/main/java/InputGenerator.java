@@ -10,8 +10,6 @@ import java.util.Random;
 /**
  * InputGenerator
  * 
- * @author Peter Schrammel
- * @version 2017
  */
 public class InputGenerator
 {
